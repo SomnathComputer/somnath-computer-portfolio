@@ -66,7 +66,7 @@ This website is designed to promote IT education and showcase real student work 
 
 ## 👨‍💻 Developed By
 
-⭐ Belim Sahilkhan  
+⭐ **Belim Sahilkhan**  
 https://belimsahilkhan.github.io/sahilkhanbelim-protfolio.github.io/
 
 ---
