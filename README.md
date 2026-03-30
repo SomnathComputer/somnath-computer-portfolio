@@ -1,18 +1,18 @@
 # 💻 Somnath Computer Portfolio
 
-A modern, responsive and professional website developed for **Somnath Computer Institute, Keshod** to showcase courses, student projects and training programs.
+A modern, responsive and professional website developed for Somnath Computer Institute, Keshod to showcase courses, student projects and training programs.
 
 ---
 
 ## 🚀 Features
 
-- 🎓 Course Information (CCC, Tally, AI, etc.)
-- 📱 Student Projects Showcase (Google Play Store Apps)
-- 🧑‍🎓 Student Profiles with Images
-- 📊 Counter Section (Students, Projects, Experience)
-- 📩 Contact Section
-- 🎨 Smooth Animations & Modern UI
-- 📱 Fully Responsive Design (Mobile Friendly)
+- Course Information (CCC, Tally, AI, etc.)
+- Student Projects Showcase (Google Play Store Apps)
+- Student Profiles with Images
+- Counter Section (Students, Projects, Experience)
+- Contact Section
+- Smooth Animations & Modern UI
+- Fully Responsive Design (Mobile Friendly)
 
 ---
 
@@ -53,7 +53,7 @@ https://somnathcomputer.github.io/somnath-computer-portfolio/
 ## 📍 Location
 
 Somnath Computer Institute  
-Amrut Nagar Main Road,  
+Amrut Nagar Main Road  
 Near Water Tank, Keshod  
 
 ---
@@ -66,7 +66,8 @@ This website is designed to promote IT education and showcase real student work 
 
 ## 👨‍💻 Developed By
 
-### ⭐ Belim Sahilkhan
+⭐ Belim Sahilkhan  
+https://belimsahilkhan.github.io/sahilkhanbelim-protfolio.github.io/
 
 ---
 
@@ -78,4 +79,4 @@ This project is created for educational and demonstration purposes.
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, give it a star on GitHub!
