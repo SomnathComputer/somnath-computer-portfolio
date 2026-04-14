@@ -327,6 +327,8 @@ footer{
 
 /* ================= WHATSAPP FLOAT ================= */
 
+/* ================= WHATSAPP FLOAT ================= */
+
 .whatsapp-float{
   position:fixed;
   bottom:25px;
@@ -343,11 +345,42 @@ footer{
   text-decoration:none;
   box-shadow:0 8px 20px rgba(0,0,0,0.4);
   transition:0.3s;
+
+  /* Animation add kari */
+  animation: pulse 1.5s infinite;
 }
 
 .whatsapp-float:hover{
   background:#1ebe5d;
-  transform:scale(1.1);
+  transform:scale(1.2);
+}
+
+/* KEYFRAMES */
+@keyframes pulse{
+  0%{
+    transform: scale(1);
+  }
+  50%{
+    transform: scale(1.15);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+
+@keyframes pulse{
+  0%{
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7);
+  }
+  70%{
+    transform: scale(1.15);
+    box-shadow: 0 0 0 15px rgba(37, 211, 102, 0);
+  }
+  100%{
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0);
+  }
 }
 
 /* ================= MOBILE ================= */
